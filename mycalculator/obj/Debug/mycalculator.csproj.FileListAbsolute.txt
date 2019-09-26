@@ -1,0 +1,19 @@
+F:\Dot.Net\my projects\mycalculator\mycalculator\bin\Debug\mycalculator.exe.config
+F:\Dot.Net\my projects\mycalculator\mycalculator\bin\Debug\mycalculator.exe
+F:\Dot.Net\my projects\mycalculator\mycalculator\bin\Debug\mycalculator.pdb
+F:\Dot.Net\my projects\mycalculator\mycalculator\obj\Debug\mycalculator.csprojAssemblyReference.cache
+F:\Dot.Net\my projects\mycalculator\mycalculator\obj\Debug\mycalculator.Properties.Resources.resources
+F:\Dot.Net\my projects\mycalculator\mycalculator\obj\Debug\mycalculator.csproj.GenerateResource.cache
+F:\Dot.Net\my projects\mycalculator\mycalculator\obj\Debug\mycalculator.csproj.CoreCompileInputs.cache
+F:\Dot.Net\my projects\mycalculator\mycalculator\obj\Debug\mycalculator.exe
+F:\Dot.Net\my projects\mycalculator\mycalculator\obj\Debug\mycalculator.pdb
+F:\Dot.Net\my projects\mycalculator\mycalculator\obj\Debug\mycalculator.calculator.resources
+A:\Abneet\pendrive\abneet\mycalculator\mycalculator\bin\Debug\mycalculator.exe.config
+A:\Abneet\pendrive\abneet\mycalculator\mycalculator\obj\Debug\mycalculator.exe
+A:\Abneet\pendrive\abneet\mycalculator\mycalculator\obj\Debug\mycalculator.pdb
+A:\Abneet\pendrive\abneet\mycalculator\mycalculator\bin\Debug\mycalculator.exe
+A:\Abneet\pendrive\abneet\mycalculator\mycalculator\bin\Debug\mycalculator.pdb
+A:\Abneet\pendrive\abneet\mycalculator\mycalculator\obj\Debug\mycalculator.csprojResolveAssemblyReference.cache
+A:\Abneet\pendrive\abneet\mycalculator\mycalculator\obj\Debug\mycalculator.calculator.resources
+A:\Abneet\pendrive\abneet\mycalculator\mycalculator\obj\Debug\mycalculator.Properties.Resources.resources
+A:\Abneet\pendrive\abneet\mycalculator\mycalculator\obj\Debug\mycalculator.csproj.GenerateResource.Cache
